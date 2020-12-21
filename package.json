@@ -1,0 +1,22 @@
+{
+  "name": "07-pig-game",
+  "version": "1.0.0",
+  "description": "This is kinda look a like dice game but actually this is more like LOTTERY GAME but fortunately this game is definitely did not using money instead it just having fun tho!, come on try it up with your fellow or your family and write a feedback for me!!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "23445"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zourdycodes/dice-roll-games.git"
+  },
+  "keywords": [
+    "3441"
+  ],
+  "author": "Mohammed Zourdy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zourdycodes/dice-roll-games/issues"
+  },
+  "homepage": "https://github.com/zourdycodes/dice-roll-games#readme"
+}
